@@ -1,0 +1,19 @@
+# Machine Learning & Data Processing
+pandas
+numpy
+scikit-learn
+shap
+
+# API (FastAPI)
+fastapi
+uvicorn
+
+# Dashboard (Streamlit)
+streamlit
+
+# Voice AI
+gtts  # Google Text-to-Speech (alternative to Eleven Labs)
+elevenlabs  # Uncomment if using Eleven Labs API
+
+# Other Utilities
+requests
